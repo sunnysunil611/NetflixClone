@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Demo
 
-- Live Site : https://clone-netflix-by-priya.netlify.app/
+- Live Site : 
 
 ## My process
 
@@ -68,4 +68,4 @@ There were many things that I got in touch for the first time. Like:
 
 ## Author
 
-- Twitter - [@priya_garg2](https://twitter.com/priya_garg2)
+- Linkedin --> https://www.linkedin.com/in/nallani-sunil-kumar-67227a243
