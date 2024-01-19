@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Demo
 
-- Live Site : http://127.0.0.1:5500/index.html
+- Live Site : https://timely-croquembouche-cbdfce.netlify.app/
 
 ## My process
 
